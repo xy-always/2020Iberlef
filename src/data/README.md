@@ -1,6 +1,6 @@
-data_v1:普通数据，未进行词形还原
-data_v2：普通数据，加入sac多任务的数据
-data_v3：既有还原数据，又有普通数据，加入实体标准化数据
-data_v3_p: 同data_v3，但是数据中的标准化信息采用分层的表示方式
-data_v4:联合学习数据
-data_5:去除嵌套实体后的数据
+data_v1:raw data
+data_v2：raw data + sac multitask data
+data_v3：raw data+norm data
+data_v3_p: like data_v3，but norm data is hierarchical
+data_v4:joint learning data
+data_5:w/o nested data

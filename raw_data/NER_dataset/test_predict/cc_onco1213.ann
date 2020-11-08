@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 807 817	malignidad
+T2	MORFOLOGIA_NEOPLASIA 952 1000	adenocarcinoma de pulmón pobremente diferenciado
+T3	MORFOLOGIA_NEOPLASIA 1035 1037	M0
+T4	MORFOLOGIA_NEOPLASIA 2497 2526	lesiones intraparenquimatosas
+T5	MORFOLOGIA_NEOPLASIA 2648 2658	neoplásica
+T6	MORFOLOGIA_NEOPLASIA 2745 2768	nódulos contralaterales
+T7	MORFOLOGIA_NEOPLASIA 2803 2813	metástasis
+T8	MORFOLOGIA_NEOPLASIA 2870 2880	metástasis
+T9	MORFOLOGIA_NEOPLASIA 3139 3216	progresión local y a distancia ( óseas e intraventriculares ) de adenocarcinoma
+T10	MORFOLOGIA_NEOPLASIA 3035 3045	metástasis

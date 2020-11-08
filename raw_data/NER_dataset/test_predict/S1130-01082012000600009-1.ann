@@ -1,0 +1,13 @@
+T1	MORFOLOGIA_NEOPLASIA 152 158	cáncer
+T2	MORFOLOGIA_NEOPLASIA 258 315	adenocarcinoma de estómago con células en anillo de sello
+T3	MORFOLOGIA_NEOPLASIA 404 456	adenocarcinoma de estómago diseminado de tipo difuso
+T4	MORFOLOGIA_NEOPLASIA 557 621	adenocarcinoma difuso de estómago con células en anillo de sello
+T5	MORFOLOGIA_NEOPLASIA 680 694	carcinomatosis
+T6	MORFOLOGIA_NEOPLASIA 992 997	tumor
+T7	MORFOLOGIA_NEOPLASIA 1083 1090	tumoral
+T8	MORFOLOGIA_NEOPLASIA 1172 1210	adenocarcinoma gástrico de tipo difuso
+T9	MORFOLOGIA_NEOPLASIA 1365 1371	cáncer
+T10	MORFOLOGIA_NEOPLASIA 1516 1522	cáncer
+T11	MORFOLOGIA_NEOPLASIA 1772 1778	cáncer
+T12	MORFOLOGIA_NEOPLASIA 3762 3808	carcinoma difuso de células en anillo de sello
+T13	MORFOLOGIA_NEOPLASIA 3827 3830	pMx

@@ -1,0 +1,9 @@
+T1	MORFOLOGIA_NEOPLASIA 337 347	malignidad
+T2	MORFOLOGIA_NEOPLASIA 374 400	adenopatía supraclavicular
+T3	MORFOLOGIA_NEOPLASIA 1234 1249	nódulo pulmonar
+T4	MORFOLOGIA_NEOPLASIA 1572 1614	lesiones levemente esclerosas en vértebras
+T5	MORFOLOGIA_NEOPLASIA 1663 1673	metástasis
+T6	MORFOLOGIA_NEOPLASIA 1951 1987	metástasis por carcinoma epidermoide
+T7	MORFOLOGIA_NEOPLASIA 1912 1929	nódulo subcutáneo
+T8	MORFOLOGIA_NEOPLASIA 2029 2105	Carcinoma epidermoide de pulmón estadio IV con afectación coroidea bilateral
+T9	MORFOLOGIA_NEOPLASIA 2429 2449	infiltración medular

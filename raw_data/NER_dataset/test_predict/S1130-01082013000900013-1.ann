@@ -1,0 +1,5 @@
+T1	MORFOLOGIA_NEOPLASIA 489 499	malignidad
+T2	MORFOLOGIA_NEOPLASIA 538 548	tumoración
+T3	MORFOLOGIA_NEOPLASIA 896 906	tumoración
+T4	MORFOLOGIA_NEOPLASIA 1007 1077	deadenocarcinoma poco diferenciado , infiltrante , de tipo endometrioide
+T5	MORFOLOGIA_NEOPLASIA 1186 1196	metástasis

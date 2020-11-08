@@ -1,0 +1,5 @@
+T1	MORFOLOGIA_NEOPLASIA 62 72	tumoración
+T2	MORFOLOGIA_NEOPLASIA 540 573	carcinoma epidermoide infiltrante
+T3	MORFOLOGIA_NEOPLASIA 400 409	neoplasia
+T4	MORFOLOGIA_NEOPLASIA 651 688	metastásica por carcinoma epidermoide
+T5	MORFOLOGIA_NEOPLASIA 837 848	metastásica

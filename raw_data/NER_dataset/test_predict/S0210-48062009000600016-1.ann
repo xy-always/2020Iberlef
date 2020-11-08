@@ -1,0 +1,4 @@
+T1	MORFOLOGIA_NEOPLASIA 90 95	tumor
+T2	MORFOLOGIA_NEOPLASIA 182 195	peritumorales
+T3	MORFOLOGIA_NEOPLASIA 467 519	carcinoma renal de células claras , sólido y quístico
+T4	MORFOLOGIA_NEOPLASIA 543 577	intratumoral , grado 2 - 3 de Fuhrman

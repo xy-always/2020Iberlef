@@ -1,0 +1,11 @@
+T1	MORFOLOGIA_NEOPLASIA 150 156	cáncer
+T2	MORFOLOGIA_NEOPLASIA 191 197	cáncer
+T3	MORFOLOGIA_NEOPLASIA 646 667	carcinoma infiltrante
+T4	MORFOLOGIA_NEOPLASIA 864 934	carcinoma ductal infiltrante non otherwise specific ( NOS ) diferenciado
+T5	MORFOLOGIA_NEOPLASIA 1105 1113	pT1cN0M0
+T6	MORFOLOGIA_NEOPLASIA 1427 1457	nódulos pulmonares bilaterales
+T7	MORFOLOGIA_NEOPLASIA 1512 1557	adenopatía de 1 cm en la fosa supraclavicular
+T8	MORFOLOGIA_NEOPLASIA 1686 1704	nódulos pulmonares
+T9	MORFOLOGIA_NEOPLASIA 1871 1897	adenopatía supraclavicular
+T10	MORFOLOGIA_NEOPLASIA 1935 1945	malignidad
+T11	MORFOLOGIA_NEOPLASIA 2290 2328	histiocitosis de células de Langerhans

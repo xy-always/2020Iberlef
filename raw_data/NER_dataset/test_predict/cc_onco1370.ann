@@ -1,0 +1,9 @@
+T1	MORFOLOGIA_NEOPLASIA 56 70	retinoblastoma
+T2	MORFOLOGIA_NEOPLASIA 754 798	neoplasia maligna de células redondas azules
+T3	MORFOLOGIA_NEOPLASIA 828 842	retinoblastoma
+T4	MORFOLOGIA_NEOPLASIA 987 1014	rabdomiosarcoma embrionario
+T5	MORFOLOGIA_NEOPLASIA 1072 1104	Rabdomiosarcoma tipo embrionario
+T6	MORFOLOGIA_NEOPLASIA 1693 1714	lesión única hepática
+T7	MORFOLOGIA_NEOPLASIA 1780 1790	metástasis
+T8	MORFOLOGIA_NEOPLASIA 1927 1957	metástasis por rabdomiosarcoma
+T9	MORFOLOGIA_NEOPLASIA 2005 2016	metastásica

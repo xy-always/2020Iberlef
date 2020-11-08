@@ -1,0 +1,11 @@
+T1	MORFOLOGIA_NEOPLASIA 986 1002	células malignas
+T2	MORFOLOGIA_NEOPLASIA 1039 1049	neoplásica
+T3	MORFOLOGIA_NEOPLASIA 1101 1164	carcinoma mixto , papilar de células transicionales grado II - III
+T4	MORFOLOGIA_NEOPLASIA 1206 1240	adenocarcinoma mucoide infiltrante
+T5	MORFOLOGIA_NEOPLASIA 1264 1281	carcinoma in situ
+T6	MORFOLOGIA_NEOPLASIA 2038 2054	carcinoma seroso
+T7	MORFOLOGIA_NEOPLASIA 1741 1751	tumoración
+T8	MORFOLOGIA_NEOPLASIA 2183 2222	carcinoma de próstata bien diferenciado
+T9	MORFOLOGIA_NEOPLASIA 2334 2356	carcinoma micropapilar
+T10	MORFOLOGIA_NEOPLASIA 3280 3300	recidiva mesentérica
+T11	MORFOLOGIA_NEOPLASIA 3484 3518	progresión intra y retroperitoneal

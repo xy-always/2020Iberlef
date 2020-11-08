@@ -1,0 +1,6 @@
+T1	MORFOLOGIA_NEOPLASIA 113 123	Tumoración
+T2	MORFOLOGIA_NEOPLASIA 181 191	Tumoración
+T3	MORFOLOGIA_NEOPLASIA 721 753	neoplasia maligna indiferenciada
+T4	MORFOLOGIA_NEOPLASIA 704 718	adenocarcinoma
+T5	MORFOLOGIA_NEOPLASIA 758 765	linfoma
+T6	MORFOLOGIA_NEOPLASIA 867 931	Neoplasia maligna indiferenciada de célula pequeña de alto grado

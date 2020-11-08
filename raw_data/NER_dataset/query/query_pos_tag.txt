@@ -1,0 +1,67 @@
+La el DA0FS0 0.972269
+
+morfología morfología NCFS000 1
+
+o o CC 0.999769
+
+histología histología NCFS000 1
+
+de de SPS00 0.999984
+
+las el DA0FP0 0.970954
+
+neoplasias neoplasia NCFP000 1
+
+hace hacer VMIP3S0 1
+
+referencia referenciar VMIP3S0 0.174423
+
+a a SPS00 0.333333
+
+la el DA0FS0 0.972269
+
+forma forma NCFS000 0.970944
+
+y y CC 0.999962
+
+estructura estructura NCFS000 0.982301
+
+de de SPS00 0.999984
+
+las el DA0FP0 0.970954
+
+células célula NCFP000 0.333333
+
+tumorales tumoral AQ0CP0 1
+
+y y CC 0.999962
+
+se se P00CN000 0.465639
+
+estudia estudiar VMIP3S0 0.994868
+
+con con SPS00 1
+
+el el DA0MS0 1
+
+fin fin NCMS000 1
+
+de de SPS00 0.999984
+
+clasificar clasificar VMN0000 1
+
+una uno DI0FS0 0.951575
+
+neoplasia neoplasia NCFS000 1
+
+por por SPS00 1
+
+su su DP3CS0 1
+
+tejido tejer VMP00SM 0.616125
+
+de de SPS00 0.999984
+
+origen origen NCMS000 1
+? ? Fit 1
+

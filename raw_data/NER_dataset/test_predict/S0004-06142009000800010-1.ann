@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 218 228	malignidad
+T2	MORFOLOGIA_NEOPLASIA 647 681	carcinoma urotelial indiferenciado
+T3	MORFOLOGIA_NEOPLASIA 1096 1136	carcinoma urotelial sólido de alto grado
+T4	MORFOLOGIA_NEOPLASIA 1225 1230	tumor
+T5	MORFOLOGIA_NEOPLASIA 1269 1288	células neoplásicas
+T6	MORFOLOGIA_NEOPLASIA 1255 1268	peritumorales
+T7	MORFOLOGIA_NEOPLASIA 1368 1387	carcinoma urotelial
+T8	MORFOLOGIA_NEOPLASIA 1389 1397	pT4aN1M0
+T9	MORFOLOGIA_NEOPLASIA 2432 2475	células metastásicas de carcinoma urotelial
+T10	MORFOLOGIA_NEOPLASIA 2493 2536	infiltración de la médula ósea por el tumor

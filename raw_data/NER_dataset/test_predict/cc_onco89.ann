@@ -1,0 +1,7 @@
+T1	MORFOLOGIA_NEOPLASIA 880 890	malignidad
+T2	MORFOLOGIA_NEOPLASIA 1026 1032	timoma
+T3	MORFOLOGIA_NEOPLASIA 1047 1084	Carcinoma tímico de tipo sarcomatoide
+T4	MORFOLOGIA_NEOPLASIA 1334 1371	carcinoma tímico de tipo sarcomatoide
+T5	MORFOLOGIA_NEOPLASIA 1198 1215	tumoración tímica
+T6	MORFOLOGIA_NEOPLASIA 1459 1475	carcinoma tímico
+T7	MORFOLOGIA_NEOPLASIA 2849 2872	implantes mediastínicos

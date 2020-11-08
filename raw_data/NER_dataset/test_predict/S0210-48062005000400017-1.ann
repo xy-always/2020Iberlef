@@ -1,0 +1,15 @@
+T1	MORFOLOGIA_NEOPLASIA 216 221	tumor
+T2	MORFOLOGIA_NEOPLASIA 355 386	linfoma retro - ocular no Hodgkin
+T3	MORFOLOGIA_NEOPLASIA 405 428	malignidad de células B
+T4	MORFOLOGIA_NEOPLASIA 451 474	linfoma centrofolicular
+T5	MORFOLOGIA_NEOPLASIA 528 576	afectación no voluminosa a nivel supraclavicular
+T6	MORFOLOGIA_NEOPLASIA 611 634	linfoma B de bajo grado
+T7	MORFOLOGIA_NEOPLASIA 882 892	tumoración
+T8	MORFOLOGIA_NEOPLASIA 1017 1049	linfoma no Hodgkin de bajo grado
+T9	MORFOLOGIA_NEOPLASIA 1221 1231	neoplásica
+T10	MORFOLOGIA_NEOPLASIA 1402 1441	linfoma no Hodgkin de tipo folicular Gr
+T11	MORFOLOGIA_NEOPLASIA 1813 1822	neoplasia
+T12	MORFOLOGIA_NEOPLASIA 1979 2043	neoplasia linfoide maligna no Hodgkin de bajo grado de células B
+T13	MORFOLOGIA_NEOPLASIA 2282 2325	linfoma de células centrofoliculares tipo I
+T14	MORFOLOGIA_NEOPLASIA 2381 2391	neoplásica
+T15	MORFOLOGIA_NEOPLASIA 2459 2470	neoplásicos

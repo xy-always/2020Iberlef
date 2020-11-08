@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 1433 1457	Carcinoma indiferenciado
+#1	AnnotatorNotes T1	8020/3
+T2	MORFOLOGIA_NEOPLASIA 1344 1373	Nódulo pulmonar contralateral
+#2	AnnotatorNotes T2	8000/6
+T3	MORFOLOGIA_NEOPLASIA 1212 1224	metastásicas
+#3	AnnotatorNotes T3	8000/6
+T4	MORFOLOGIA_NEOPLASIA 2636 2654	nódulos pulmonares
+#4	AnnotatorNotes T4	8000/6
+T5	MORFOLOGIA_NEOPLASIA 2866 2873	tumoral
+#5	AnnotatorNotes T5	8000/1
+T6	MORFOLOGIA_NEOPLASIA 3179 3186	tumoral
+#6	AnnotatorNotes T6	8000/1
+T7	MORFOLOGIA_NEOPLASIA 1203 1236	lesiones metastásicas a distancia
+#7	AnnotatorNotes T7	8000/6
+T8	MORFOLOGIA_NEOPLASIA 1546 1603	Carcinoma indiferenciado de pulmón, Estadio IV (T2bN2M1a)
+#8	AnnotatorNotes T8	8020/6

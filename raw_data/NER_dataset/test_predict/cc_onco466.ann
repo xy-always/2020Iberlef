@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 480 499	carcinoma urotelial
+T2	MORFOLOGIA_NEOPLASIA 630 639	carcinoma
+T3	MORFOLOGIA_NEOPLASIA 775 808	carcinoma urotelial de alto grado
+T4	MORFOLOGIA_NEOPLASIA 1075 1104	adenopatías supraclaviculares
+T5	MORFOLOGIA_NEOPLASIA 1221 1256	nódulos subcentimétricos pulmonares
+T6	MORFOLOGIA_NEOPLASIA 1322 1359	metástasis por carcinoma transicional
+T7	MORFOLOGIA_NEOPLASIA 3257 3271	lesiones óseas
+T8	MORFOLOGIA_NEOPLASIA 3181 3192	metastásica
+T9	MORFOLOGIA_NEOPLASIA 3677 3708	carcinoma urotelial metastásico
+T10	MORFOLOGIA_NEOPLASIA 3653 3660	tumoral

@@ -1,0 +1,7 @@
+T1	MORFOLOGIA_NEOPLASIA 300 310	tumoración
+T2	MORFOLOGIA_NEOPLASIA 1034 1048	tumor estromal
+T3	MORFOLOGIA_NEOPLASIA 1242 1294	tumor del estroma gastrointestinal fusiforme maligno
+T4	MORFOLOGIA_NEOPLASIA 1414 1448	tumor del estroma gastrointestinal
+T5	MORFOLOGIA_NEOPLASIA 1741 1758	recidiva hepática
+T6	MORFOLOGIA_NEOPLASIA 1836 1855	progresión hepática
+T7	MORFOLOGIA_NEOPLASIA 2129 2147	lesiones hepáticas

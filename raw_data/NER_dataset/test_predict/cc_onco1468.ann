@@ -1,0 +1,11 @@
+T1	MORFOLOGIA_NEOPLASIA 3705 3731	proceso linfoproliferativo
+T2	MORFOLOGIA_NEOPLASIA 3549 3559	malignidad
+T3	MORFOLOGIA_NEOPLASIA 3864 3882	linfoma no Hodgkin
+T4	MORFOLOGIA_NEOPLASIA 4354 4380	infiltrativa leptomeníngea
+T5	MORFOLOGIA_NEOPLASIA 4538 4585	linfoma no Hodgkin con afectación leptomeníngea
+T6	MORFOLOGIA_NEOPLASIA 4734 4755	linfoma leptomeníngeo
+T7	MORFOLOGIA_NEOPLASIA 5927 5934	linfoma
+T8	MORFOLOGIA_NEOPLASIA 6155 6175	linfoma no Hodgkin B
+T9	MORFOLOGIA_NEOPLASIA 6236 6283	carcinoma de células renales grado 1 de Fuhrman
+T10	MORFOLOGIA_NEOPLASIA 6505 6512	linfoma
+T11	MORFOLOGIA_NEOPLASIA 6566 6624	linfoma no Hodgkin B intravascular con afectación hepática

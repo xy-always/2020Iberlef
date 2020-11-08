@@ -1,0 +1,10 @@
+T1	MORFOLOGIA_NEOPLASIA 121 131	tumoración
+T2	MORFOLOGIA_NEOPLASIA 329 340	peritumoral
+T3	MORFOLOGIA_NEOPLASIA 490 548	neoplasia mesenquimal de células epitelioides y fusiformes
+T4	MORFOLOGIA_NEOPLASIA 704 714	malignidad
+T5	MORFOLOGIA_NEOPLASIA 721 731	tumoración
+T6	MORFOLOGIA_NEOPLASIA 1016 1026	tumoración
+T7	MORFOLOGIA_NEOPLASIA 1164 1174	tumoración
+T8	MORFOLOGIA_NEOPLASIA 1775 1796	neoplasia mesenquimal
+T9	MORFOLOGIA_NEOPLASIA 2046 2055	neoplasia
+T10	MORFOLOGIA_NEOPLASIA 2218 2314	neoplasia mesenquimal fusocelular fibroblástica / miofibroblástica compatible con fascitis nodular

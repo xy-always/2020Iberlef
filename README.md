@@ -1,5 +1,13 @@
 # 2020Iberlef
 
+## shared task
+
+Cantemist 2020
+
+named entity recognition 
+
+entity normalization
+
 ## raw data
 
 is the data of 2020IberLEF
